@@ -1,0 +1,37 @@
+#Our Answer
+def fast_food(food):
+
+    burger = 'burger'
+    fries = 'fries'
+    drink = 'drink'
+    order = []
+    burgerCount = (burger + ' ') * food[0]
+    friesCount = (fries + ' ') * food[1]
+    drinkCount = (drink + ' ') * food[2]
+    order.extend(burgerCount.split())
+    order.extend(friesCount.split())
+    order.extend(drinkCount.split())
+    return order
+    
+print(fast_food([2,0,2]))
+
+#Instructor's Answer
+def fast_food(x):
+    food = ['burger','fries','drink']
+    order = []
+    
+    for i in range(0,3):
+        j = 0
+        while j < x[i]:
+            order.append(food[i])
+            j += 1
+    return order
+
+print(fast_food([2,0,2]))
+
+#BAMF's Answer
+def fast_food(x):
+    food = ['burger','fries','drink']
+    return ("".join([(food[i] + " ") * x[i] for i in range(0,3)])).split()
+    
+print(fast_food([2,0,2]))
