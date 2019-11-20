@@ -1,0 +1,17 @@
+def groceries(bag):
+    freezer = []
+    fridge = []
+    pantry = []
+    for item in bag:
+        if int(item[0:2]) <= 32:
+            freezer.append(item[3:])
+        elif int(item[0:2]) > 32 and int(item[0:2]) <= 40:
+            fridge.append(item[3:])
+        else:
+            pantry.append(item[3:])
+            
+    return [freezer,fridge,pantry]
+
+print(groceries(["35-yogurt", "25-popsicle", "55-bread", "37-milk", "60-apple"]))
+
+print(groceries(["59-crackers", "36-eggs", "21-ice cream", "54-avocado", "29-pizza"]))
