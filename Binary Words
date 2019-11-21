@@ -1,3 +1,4 @@
+#Our Answer without a list
 def binary_words(words):
     shaggyWordz = words.split()
     returnVal = ''
@@ -7,6 +8,11 @@ def binary_words(words):
         else:
             returnVal +='1'
     return ''.join(returnVal)
+
+
+#The 1 Liner
+def binary_words(words):
+    return ''.join(['0' if len(i) % 2 == 0 else '1' for i in words.split()])
 
 print(binary_words("how many times did you reboot?"))
 print(binary_words("The sales guy made me bring down the website"))
