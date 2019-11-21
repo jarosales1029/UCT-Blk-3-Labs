@@ -1,0 +1,12 @@
+def binary_words(words):
+    shaggyWordz = words.split()
+    returnVal = ''
+    for word in shaggyWordz:
+        if len(word) % 2 == 0:
+            returnVal += '0'
+        else:
+            returnVal +='1'
+    return ''.join(returnVal)
+
+print(binary_words("how many times did you reboot?"))
+print(binary_words("The sales guy made me bring down the website"))
