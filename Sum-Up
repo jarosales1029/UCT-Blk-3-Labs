@@ -1,5 +1,4 @@
 def sum_up(numbers):
-    
     num = []
     for i in str(numbers):
         num.append(int(i))
