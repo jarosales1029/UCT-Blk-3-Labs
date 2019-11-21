@@ -1,0 +1,11 @@
+def tacos(ingredients):
+    foodLst = ["beef", "cheese","lettuce","tomato", "salsa"]
+    returnLst = []
+    for i in ingredients:
+        if i in foodLst:
+            returnLst.append(i)
+        
+    return returnLst
+        
+print(tacos(["beef", "banana", "yogurt", "salsa", "tomato"]))
+print(tacos(["lettuce", "carrot", "lettuce", "cherry", "beef"]))
