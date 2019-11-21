@@ -8,5 +8,18 @@ def first_last(words):
         shaggyWordz.append(firstLetter+lastLetter)
     return ' '.join(shaggyWordz)
 
+#Our While Loop
+def first_last(words):
+    sentence = words.split()
+    shaggyWordz = []
+    count = len(sentence)
+    index = 0
+    while index < len(sentence):
+        firstLetter = sentence[index][0]
+        lastLetter = sentence[index][-1]
+        shaggyWordz.append(firstLetter + lastLetter)
+        index += 1
+    return shaggyWordz
+        
 print(first_last("Ganymede grows much of the food"))
 print(first_last("Fire the point defense cannons and rail gun!"))
