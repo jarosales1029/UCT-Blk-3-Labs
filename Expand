@@ -1,17 +1,18 @@
 def expand(number):
-
     numberLst = []
     returnLst = []
     for digit in str(number):
         numberLst.append(int(digit))
-       
-    LstLen = len(numberLst)
+    lstLen = len(numberLst)
     for digit in numberLst:
-        returnLst.append(digit * (10 ** (lstLen - 1)))
+        if digit > 0:
+            returnLst.append(str(digit * (10 ** (lstLen - 1))))
         lstLen -= 1
-        return returnLst
         
-'''def expand(number):
+    return ' + '.join(returnLst)
+        
+
+def expand(number):
     numberLst = list(str(number))
     length = len(numberLst)
     z = ''
@@ -22,7 +23,7 @@ def expand(number):
         else:
             z += str(int(y) * pow(10,length-count)) + ' + '
             count += 1
-    return print('\'' + z[:-3] + '\'')'''
+    return print('\'' + z[:-3] + '\'')
     
 print(expand(42))
 print(expand(307))
