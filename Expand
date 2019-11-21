@@ -1,3 +1,4 @@
+#Our Answer
 def expand(number):
     numberLst = []
     returnLst = []
@@ -11,7 +12,7 @@ def expand(number):
         
     return ' + '.join(returnLst)
         
-
+#Streb's Answer
 def expand(number):
     numberLst = list(str(number))
     length = len(numberLst)
