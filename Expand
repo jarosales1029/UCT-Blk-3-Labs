@@ -1,0 +1,30 @@
+def expand(number):
+
+    numberLst = []
+    returnLst = []
+    for digit in str(number):
+        numberLst.append(int(digit))
+       
+    LstLen = len(numberLst)
+    for digit in numberLst:
+        returnLst.append(digit * (10 ** (lstLen - 1)))
+        lstLen -= 1
+        return returnLst
+        
+'''def expand(number):
+    numberLst = list(str(number))
+    length = len(numberLst)
+    z = ''
+    count = 1
+    for y in numberLst:
+        if (int(y) * pow(10,length-count)) == 0:
+            count += 1
+        else:
+            z += str(int(y) * pow(10,length-count)) + ' + '
+            count += 1
+    return print('\'' + z[:-3] + '\'')'''
+    
+print(expand(42))
+print(expand(307))
+print(expand(1429))
+print(expand(80400201))
