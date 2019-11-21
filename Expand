@@ -26,6 +26,10 @@ def expand(number):
             count += 1
     return print('\'' + z[:-3] + '\'')
     
+#The 1 liner
+def expand(x):
+        return " + ".join((str(x)[i] + ("0" *(len(str(x)) - i-1))) for i in range(0,len(str(x))) if str(x)[i] != "0")
+    
 print(expand(42))
 print(expand(307))
 print(expand(1429))
