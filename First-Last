@@ -12,7 +12,6 @@ def first_last(words):
 def first_last(words):
     sentence = words.split()
     shaggyWordz = []
-    count = len(sentence)
     index = 0
     while index < len(sentence):
         firstLetter = sentence[index][0]
