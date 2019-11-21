@@ -1,0 +1,12 @@
+#Our For Loop
+def first_last(words):
+    sentence = words.split()
+    shaggyWordz = []
+    for i in sentence:
+        firstLetter = i[0]
+        lastLetter = i[-1]
+        shaggyWordz.append(firstLetter+lastLetter)
+    return ' '.join(shaggyWordz)
+
+print(first_last("Ganymede grows much of the food"))
+print(first_last("Fire the point defense cannons and rail gun!"))
