@@ -5,7 +5,7 @@ def first_last(words):
     for i in sentence:
         firstLetter = i[0]
         lastLetter = i[-1]
-        shaggyWordz.append(firstLetter+lastLetter)
+        shaggyWordz.append(firstLetter + lastLetter)
     return ' '.join(shaggyWordz)
 
 #Our While Loop
