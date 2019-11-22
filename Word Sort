@@ -1,0 +1,13 @@
+def word_sort(sentence):
+    wordLst = sentence.split()
+    wordLst.sort(key=len, reverse=False)
+    
+    return ' '.join(wordLst)
+    
+print(word_sort("Who is your daddy, and what does he do?"))
+
+#'is he Who and do? your what does daddy,'
+
+print(word_sort("Come with me if you want to live."))
+
+#'me if to you Come with want live.'
