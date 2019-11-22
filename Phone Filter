@@ -1,0 +1,33 @@
+def phone_filter(numbers):
+    index = 0
+    count = 0
+    middle = ['7', '8', '9']
+    first = ['2', '3', '7']
+    while index < len(numbers):
+        if int(numbers[index][7]) % 2 == 0 and numbers[index][6] in middle and numbers[index][5] in first:
+            count += 1
+            index += 1
+        else:
+            index += 1
+            
+    return count 
+
+
+
+numbers = ['(606)274-2314',
+'(606)263-1323', '(606)319-4423',
+'(606)792-4923']
+
+print(phone_filter(numbers))
+
+numbers = ['(444)777-3317',
+'(444)766-5563', '(444)228-1453',
+'(444)279-4957']
+
+print(phone_filter(numbers))
+
+numbers = ['(234)388-3317',
+'(234)292-5563', '(234)770-1453',
+'(234)388-4957', '(234)782-4957']
+
+print(phone_filter(numbers))
