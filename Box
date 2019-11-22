@@ -12,4 +12,5 @@ def box(num):
     
     return numLst
 
-print(box(4))
+print(box(3))
+print(box(6))
