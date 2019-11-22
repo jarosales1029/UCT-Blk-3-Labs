@@ -13,7 +13,6 @@ def phone_filter(numbers):
     return count 
 
 
-
 numbers = ['(606)274-2314',
 '(606)263-1323', '(606)319-4423',
 '(606)792-4923']
