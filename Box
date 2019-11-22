@@ -1,0 +1,15 @@
+def box(num):
+    numLst = []
+    numLst.append('X' * num)
+    count = 2
+    while num > count:
+        numLst.append('X' + ' ' * (num-2) + 'X')
+        count +=1
+    if num > 1:
+        numLst.append('X' * num)
+    for lines in numLst:
+        print(lines)
+    
+    return numLst
+
+print(box(4))
