@@ -10,17 +10,17 @@
 - [ ] 6. [Groceries](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Groceries) - Complete
 - [ ] 7. [Expand](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Expand) - Complete
 - [ ] 8. [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter) - Complete
-- [ ] 9. [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort)
-- [ ] 10. [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box)
-- [ ] 11. [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher)
-- [ ] 12. [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack)
-- [ ] 13. [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz)
-- [ ] 14. [Deck of Cards](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Deck%20of%20Cards)
-- [ ] 15. [Login Prompt](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Login%20Prompt)
-- [ ] 16. [Guessing Game](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Guessing%20Game)
-- [ ] 17. [Basic Calculator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Basic%20Calculator)
-- [ ] 18. [Bad IP Addresses](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Bad%20IP%20Addresses)
-- [ ] 19. [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator)
+- [ ] 9. [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort) - Complete
+- [ ] 10. [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box) - Complete
+- [ ] 11. [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - 
+- [ ] 12. [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack) - 
+- [ ] 13. [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - 
+- [ ] 14. [Deck of Cards](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Deck%20of%20Cards) - 
+- [ ] 15. [Login Prompt](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Login%20Prompt) - 
+- [ ] 16. [Guessing Game](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Guessing%20Game) - 
+- [ ] 17. [Basic Calculator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Basic%20Calculator) - 
+- [ ] 18. [Bad IP Addresses](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Bad%20IP%20Addresses) - 
+- [ ] 19. [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator) - 
 
 >Tools and Resources:
 
