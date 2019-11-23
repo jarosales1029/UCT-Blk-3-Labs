@@ -1,0 +1,16 @@
+Guessing Game:
+Generate a random number(0-100) then as the user to guess. Give feedback on if the guess is too high, low, or correct. Ask if they want to play again at the end
+
+given:
+from random import randint
+
+example:
+>>>Guess a number: <input=45>
+>>>Too low
+>>>Guess a number: <input=85>
+>>>Too high
+>>>Guess a number: <input=52>
+>>>correct!
+>>>Do You want to play again? Y/N
+'''
+'''
