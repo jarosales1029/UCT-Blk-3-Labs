@@ -1,4 +1,4 @@
-# UCT-Blk-3-PowerPoint-Labs
+# UCT-Blk-3-Labs
 
 >Project Directories
 
@@ -28,7 +28,7 @@
 - [ ] Python Labs from Workbook 
   - [] 
 
->Tools and Resources:
+# Tools and Resources:
 
 - https://ctep.csr.disa.mil/
 - https://www.onlinegdb.com/
