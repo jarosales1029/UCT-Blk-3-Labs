@@ -2,14 +2,14 @@
 
 >Project Directories
 
-- [ ] 1. [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up)
-- [ ] 2. [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last)
-- [ ] 3. [Binary Words](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Binary%20Words)
-- [ ] 4. [Fast Food](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Fast%20Food)
-- [ ] 5. [Tacos](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Tacos)
-- [ ] 6. [Groceries](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Groceries)
-- [ ] 7. [Expand](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Expand)
-- [ ] 8. [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter)
+- [ ] 1. [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up) - Complete
+- [ ] 2. [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last) - Complete
+- [ ] 3. [Binary Words](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Binary%20Words) - Complete
+- [ ] 4. [Fast Food](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Fast%20Food) - Complete
+- [ ] 5. [Tacos](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Tacos) - Complete
+- [ ] 6. [Groceries](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Groceries) - Complete
+- [ ] 7. [Expand](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Expand) - Complete
+- [ ] 8. [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter) - Complete
 - [ ] 9. [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort)
 - [ ] 10. [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box)
 - [ ] 11. [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher)
