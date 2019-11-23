@@ -1,0 +1,33 @@
+The function index_cipher will
+decode a message stored in a list
+with two strings.
+
+The first string has unique
+characters.
+
+The second string has digits which
+are indexes into the first string
+
+Indexes are all 0-9 (single digits)
+
+Input: list[<str>,<str>]
+
+Return: <str>
+
+>>> print(index_cipher(["hole",
+"03221"]))
+
+'hello'
+
+>>> print(index_cipher(["sopdraw",
+"25006143"]))
+
+'password'
+
+>>> print(index_cipher(["crest",
+"3201243"]))
+
+'secrets'
+
+>>> print(index_cipher(["mouy satre",
+"3124689464065798"]))
