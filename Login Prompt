@@ -1,0 +1,12 @@
+Login Prompt:
+Create a variables for a username and password. Ask the user to input a username and a password. Tell the user if they successfully logged in.
+
+given:
+none
+
+example:
+>>>Enter username: <input>
+>>> Enter password:  <input>
+>>>You have successfully logged in!
+'''
+'''
