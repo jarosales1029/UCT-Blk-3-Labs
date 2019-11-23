@@ -3,30 +3,30 @@
 >Project Directories
 
 - [ ] PowerPoint Labs
-  - 1. [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up) - Complete
-  - 2. [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last) - Complete
-  - 3. [Binary Words](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Binary%20Words) - Complete
-  - 4. [Fast Food](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Fast%20Food) - Complete
-  - 5. [Tacos](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Tacos) - Complete
-  - 6. [Groceries](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Groceries) - Complete
-  - 7. [Expand](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Expand) - Complete
-  - 8. [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter) - Complete
-  - 9. [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort) - Complete
-  - 10. [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box) - Complete
-  - 11. [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - 
-  - 12. [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack) - 
-  - 13. [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - 
+  - [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up) - Complete
+  - [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last) - Complete
+  - [Binary Words](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Binary%20Words) - Complete
+  - [Fast Food](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Fast%20Food) - Complete
+  - [Tacos](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Tacos) - Complete
+  - [Groceries](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Groceries) - Complete
+  - [Expand](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Expand) - Complete
+  - [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter) - Complete
+  - [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort) - Complete
+  - [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box) - Complete
+  - [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - 
+  - [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack) - 
+  - [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - 
 
 - [ ] Text Doc Labs from Capt 
-  - 14. [Deck of Cards](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Deck%20of%20Cards) - 
-  - 15. [Login Prompt](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Login%20Prompt) - 
-  - 16. [Guessing Game](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Guessing%20Game) - 
-  - 17. [Basic Calculator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Basic%20Calculator) - 
-  - 18. [Bad IP Addresses](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Bad%20IP%20Addresses) - 
-  - 19. [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator) - 
+  - [Deck of Cards](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Deck%20of%20Cards) - 
+  - [Login Prompt](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Login%20Prompt) - 
+  - [Guessing Game](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Guessing%20Game) - 
+  - [Basic Calculator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Basic%20Calculator) - 
+  - [Bad IP Addresses](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Bad%20IP%20Addresses) - 
+  - [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator) - 
 
 - [ ] Python Labs from Workbook 
-  - 20. 
+  - [] 
 
 >Tools and Resources:
 
