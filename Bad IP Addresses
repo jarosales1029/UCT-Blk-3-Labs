@@ -1,0 +1,11 @@
+bad IP addresses:
+given a list of known malicious domains and a list of recently visited domains by a user, return a list consisting of all the bad doamins that the user visited.
+
+given:
+badDomains = ['freemoney.ru','my.af.mili','download.moreram.cn','faster.internet.con','faccbook.com']
+recentlyVisited = ['google.com','cisco.com','my.af.mil','faccbook.com','download.moreram.cn']
+
+example:
+>>>This user recently vised the following malicious domains: faccbook.com, download.moreram.ch
+'''
+'''
