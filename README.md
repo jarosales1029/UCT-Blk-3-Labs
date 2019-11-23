@@ -26,18 +26,19 @@
   - 19. [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator) - 
 
 - [ ] Python Labs from Workbook 
+  -
 
 >Tools and Resources:
 
 - https://ctep.csr.disa.mil/
 - https://www.onlinegdb.com/
-- https://www.jdoodle.com/python3-programming-online/
-- https://codeacademy.com
-- https://checkio.org
-- https://codewars.com
-- https://codingbat.com
-- https://w3schools.com/python
-- https://repl.it/
+- [ ] https://www.jdoodle.com/python3-programming-online/
+- [ ] https://codeacademy.com
+- [ ] https://checkio.org
+- [ ] https://codewars.com
+- [ ] https://codingbat.com
+- [ ] https://w3schools.com/python
+- [ ] https://repl.it/
 
 1. ESCAPE CHARACTERS
 
