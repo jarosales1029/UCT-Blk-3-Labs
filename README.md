@@ -1,6 +1,6 @@
 # UCT-Blk-3-Labs
 
->Project Directories
+# Project Directories
 
 - [ ] PowerPoint Labs
   - [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up) - Complete
