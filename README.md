@@ -26,12 +26,12 @@
   - 19. [Morse Code Translator](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Morse%20Code%20Translator) - 
 
 - [ ] Python Labs from Workbook 
-  -
+  - 20. 
 
 >Tools and Resources:
 
-- https://ctep.csr.disa.mil/
-- https://www.onlinegdb.com/
+- [ ] https://ctep.csr.disa.mil/
+- [ ] https://www.onlinegdb.com/
 - [ ] https://www.jdoodle.com/python3-programming-online/
 - [ ] https://codeacademy.com
 - [ ] https://checkio.org
