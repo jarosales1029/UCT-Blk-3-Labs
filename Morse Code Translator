@@ -1,0 +1,9 @@
+morse code translator:
+given a list of morse code, write a function that converts messages from * and - to the correct letters.
+
+given
+morse = ["*-","-***","-*-*","-**","*","**-*","--*","****","**","*---","-*-","*-**","--","-*","---","*--*","--*-","*-*","***","-","**-","***-","*--","-**-","-*---","--**"]
+>>>write a message:<input=hello>
+>>>your message in morse code is: *** * *-** *-** ---
+'''
+'''
