@@ -1,6 +1,6 @@
 # UCT-Blk-3-PowerPoint-Labs
 
->Directory Notes
+>Project Directories
 
 - [ ] 1. [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up)
 - [ ] 2. [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last)
