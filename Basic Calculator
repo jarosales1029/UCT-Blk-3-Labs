@@ -1,0 +1,15 @@
+Basic Calculator:
+Create a function that takes two numbers and a mathmatical operator(add,subtract,multiply,divide,exponent). Then take three inputs from the user, 2 numbers, and an operator. 
+Return the result and ask if they have another problem to solve
+
+given:
+none
+
+example:
+>>>Enter the first number: <input = 2>
+>>>Enter the second number: <input = 10>
+>>> Would you like to add,subtract,multiply,divide,exponent?(A,S,M,D,E) <input = M>
+>>>2 * 10 = 20
+>>>Would you like to make anpther calculation?(Y/N)
+'''
+'''
