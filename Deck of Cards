@@ -1,0 +1,38 @@
+Deck of Cards:
+Given a list of suits and a list of card values, combined make a new lists that represents a deck of cards
+
+given: 
+suits = ["diamonds","spades","hearts","clubs"]
+values = ['2','3','4','5','6','7','8','9','10','Jack','Queen','King','Ace']
+
+example:
+>>>A deck of cards is made up of: 2 of diamonds, 3 of diamonds........10 of hearts....king of clubs, Ace of clubs
+'''
+'''
+Shuffling Cards:
+Create a function that returns a new list where the cards are in a random order aka shuffled
+
+given:
+deck = ['2 of hearts','3 of hearts','4 of hearts',.......]
+
+example:
+>>> deck = ['king of spades','5 of clubs','9 of diamonds',.......]
+'''
+'''
+dealing cards:
+>>>create a function that given a deck of cards, handsize, and playerscount, deals out X(handsize) cards to each Y(playerscount) number of players.
+
+given: shuffled deck from previous
+
+>>>how many players? <input = 2>
+>>> how many cards in each hand? <input = 2>
+>>> Player one has ['King of diamonds','Ace of clubs']
+>>> Player two has ['3 of clubs','Queen of Spades']
+'''
+'''
+'''
+'''
+'''
+War:
+
+Blackjack:
