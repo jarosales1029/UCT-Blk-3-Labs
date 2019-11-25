@@ -12,7 +12,8 @@ def first_last(words):
         lastLetter = i[-1]
         #both firstLetter and lastLetter will be stored to the list(shaggyWordz) 
         shaggyWordz.append(firstLetter + lastLetter)
-        
+    #the join() method takes all items in this list and joins them into one string separated by
+    #an empty space(' ')
     return ' '.join(shaggyWordz)
 
 #Our While Loop
