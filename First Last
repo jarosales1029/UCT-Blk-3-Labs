@@ -1,11 +1,18 @@
-#Our For Loop
+#our for loop
 def first_last(words):
+    #split a string into a list where each word is a list item
     sentence = words.split()
+    #created an empty list
     shaggyWordz = []
+    #for loop with variable i will step through the string list sentence
     for i in sentence:
+        #as i steps through each string in the list, it will target the index 0 and store as firstLetter
         firstLetter = i[0]
+        #i will also target index -1 and store as lastLetter
         lastLetter = i[-1]
+        #both firstLetter and lastLetter will be stored to the list(shaggyWordz) 
         shaggyWordz.append(firstLetter + lastLetter)
+        
     return ' '.join(shaggyWordz)
 
 #Our While Loop
@@ -18,7 +25,7 @@ def first_last(words):
         lastLetter = sentence[index][-1]
         shaggyWordz.append(firstLetter + lastLetter)
         index += 1
-    return shaggyWordz
+    return ' '.join(shaggyWordz)
         
 print(first_last("Ganymede grows much of the food"))
 print(first_last("Fire the point defense cannons and rail gun!"))
