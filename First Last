@@ -4,7 +4,7 @@ def first_last(words):
     sentence = words.split()
     #created an empty list
     shaggyWordz = []
-    #for loop with variable i will step through the string list sentence
+    #for loop with variable i will step through the string list(sentence)
     for i in sentence:
         #as i steps through each string in the list, it will target the index 0 and store as firstLetter
         firstLetter = i[0]
