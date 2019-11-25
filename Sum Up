@@ -1,21 +1,27 @@
+#defining the call function(sum_up(input))
 def sum_up(numbers):
+    #created an empty list
     num = []
+    #created a for loop where the variable(i) will step through and convert the input(numbers) into a str
     for i in str(numbers):
+        #as i steps through the input(numbers) it will store it into the list(num) as an integer
         num.append(int(i))
+    #created a variable(sum_of_all) equal to 0
     sum_of_all = 0
+    #created a for loop where j will step through the list(num) and arithmatically add what it finds to
+    #the variable(sum_of_all)
     for j in num:
         sum_of_all += j
-        
+    #this will return the variable(sum_of_all) when the function(sum_up(numbers)) is called
     return sum_of_all
-    
-print(sum_up(451))
-print(sum_up(13843))
-print(sum_up(10))
 
-
+#a shorter program for the same processes
 def sum_upped(numbers):
+    #created variable equal to 0
     sum_of_allz = 0
+    #1 for loop with variable i to step through the input(numbers) and convert to a string
     for i in str(numbers):
+        #as i steps through it will arithmatically add what it finds as an integer to the variable(sum_of_allz)
         sum_of_allz += int(i)
     return sum_of_allz
     
