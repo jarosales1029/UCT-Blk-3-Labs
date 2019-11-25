@@ -22,6 +22,24 @@ fizzbuzz(30)
   RETURNS "FizzBuzz"
 
 
+def fizzbuzz(number):
+    workNum = number
+    retWord = ''
+    if number % 5 == 0 and number % 3 == 0:
+        retWord = 'FizzBuzz'
+    elif number % 5 == 0:
+        retWord = 'Buzz'
+    elif number % 3 == 0:
+        retWord = 'Fizz'
+    else:
+        retWord = str(workNum)
+    
+    return print(retWord)
+    
+fizzbuzz(1)
+fizzbuzz(10)
+fizzbuzz(9)
+fizzbuzz(30)
 
 
   
