@@ -23,7 +23,6 @@ fizzbuzz(30)
 
 
 def fizzbuzz(number):
-    workNum = number
     retWord = ''
     if number % 5 == 0 and number % 3 == 0:
         retWord = 'FizzBuzz'
@@ -32,7 +31,7 @@ def fizzbuzz(number):
     elif number % 3 == 0:
         retWord = 'Fizz'
     else:
-        retWord = str(workNum)
+        retWord = str(number)
     
     return print(retWord)
     
