@@ -4,7 +4,7 @@ Python 3 Scripting
 
 # Project Directories
 
-- [ ] PowerPoint Labs
+- [ ] PowerPoint and CTEP Practice Labs
   - [Sum Up](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Sum%20Up) - Complete
   - [First Last](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/First%20Last) - Complete
   - [Binary Words](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Binary%20Words) - Complete
