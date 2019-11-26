@@ -15,7 +15,7 @@ Python 3 Scripting
   - [Phone Filter](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Phone%20Filter) - Complete
   - [Word Sort](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Word%20Sort) - Complete
   - [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box) - Complete
-  - [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - 
+  - [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - Complete
   - [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack) - 
   - [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - 
 
