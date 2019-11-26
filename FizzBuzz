@@ -21,7 +21,7 @@ fizzbuzz(9)
 fizzbuzz(30)
   RETURNS "FizzBuzz"
 
-
+#Solved
 def fizzbuzz(number):
     retWord = ''
     if number % 5 == 0 and number % 3 == 0:
