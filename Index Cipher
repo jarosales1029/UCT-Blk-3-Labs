@@ -14,17 +14,34 @@ Input: list[<str>,<str>]
 
 Return: <str>
 
->>> print(index_cipher(["hole",
-"03221"]))
+ex.
+>>> print(index_cipher(["hole","03221"]))
 'hello'
 
->>> print(index_cipher(["sopdraw",
-"25006143"]))
+>>> print(index_cipher(["sopdraw","25006143"]))
 'password'
 
->>> print(index_cipher(["crest",
-"3201243"]))
+>>> print(index_cipher(["crest","3201243"]))
 'secrets'
 
->>> print(index_cipher(["mouy satre",
-"3124689464065798"]))
+>>> print(index_cipher(["mouy satre","3124689464065798"]))
+'you are a master'
+
+
+#solved
+def index_cipher(user):
+    word = user[0]
+    indexing = user[1]
+    inLst = []
+    retStr = ''
+    for i in indexing:
+        inLst.append(int(i))
+    for j in inLst:
+        retStr += word[j]
+    return print(retStr)
+        
+
+index_cipher(["hole","03221"])
+index_cipher(["sopdraw","25006143"])
+index_cipher(["crest","3201243"])
+index_cipher(["mouy satre","3124689464065798"])
