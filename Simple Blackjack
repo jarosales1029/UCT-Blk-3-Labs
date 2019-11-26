@@ -15,20 +15,20 @@ simple_blackjack([10, 5, 4, 11])
 
 #Solved
 def simple_blackjack(game):
-    add = 0
+    hand = 0
     for i in game:
-        add += i
-        if add > 21:
+        hand += i
+        if hand > 21:
             for j in game:
                 if j == 11:
-                    add -= 10
+                    hand -= 10
                     break
         if i > 11:
-            add = -1
+            hand = -1
             break
-    return print(add)
-        
+    return print(hand)
     
 simple_blackjack([10, 11])
 simple_blackjack([10, 5, 11, 11, 4])
 simple_blackjack([10, 5, 4, 11])
+simple_blackjack([11, 11])
