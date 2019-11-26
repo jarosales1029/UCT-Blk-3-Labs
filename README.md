@@ -17,7 +17,7 @@ Python 3 Scripting
   - [Box](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Box) - Complete
   - [Index Cipher](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Index%20Cipher) - Complete
   - [Simple Blackjack](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Simple%20Blackjack) - 
-  - [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - 
+  - [FizzBuzz](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/FizzBuzz) - Complete
 
 - [ ] Text Doc Labs from Capt 
   - [Deck of Cards](https://github.com/jarosales1029/UCT-Blk-3-PowerPoint-Labs/blob/master/Deck%20of%20Cards) - 
