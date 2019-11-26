@@ -31,4 +31,3 @@ def simple_blackjack(game):
 simple_blackjack([10, 11])
 simple_blackjack([10, 5, 11, 11, 4])
 simple_blackjack([10, 5, 4, 11])
-simple_blackjack([11, 11])
