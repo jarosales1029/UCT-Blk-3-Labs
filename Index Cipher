@@ -14,7 +14,7 @@ Input: list[<str>,<str>]
 
 Return: <str>
 
-#example
+Example:
 >>> print(index_cipher(["hole","03221"]))
 'hello'
 >>> print(index_cipher(["sopdraw","25006143"]))
