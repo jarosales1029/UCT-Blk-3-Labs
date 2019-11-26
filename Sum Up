@@ -7,7 +7,7 @@ def sum_up(numbers):
         sum_of_all += j
     return sum_of_all
 
-def sum_upped(numbers):
+def sum_up(numbers):
     sum_of_allz = 0
     for i in str(numbers):
         sum_of_allz += int(i)
