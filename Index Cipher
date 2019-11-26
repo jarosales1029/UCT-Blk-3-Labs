@@ -14,16 +14,13 @@ Input: list[<str>,<str>]
 
 Return: <str>
 
-ex.
+#example
 >>> print(index_cipher(["hole","03221"]))
 'hello'
-
 >>> print(index_cipher(["sopdraw","25006143"]))
 'password'
-
 >>> print(index_cipher(["crest","3201243"]))
 'secrets'
-
 >>> print(index_cipher(["mouy satre","3124689464065798"]))
 'you are a master'
 
