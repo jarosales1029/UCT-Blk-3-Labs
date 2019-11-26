@@ -1,5 +1,5 @@
 complete the simple_blackjack function so that given a list of integers that represent a blackjack hand, return 
-their sum conforming to the rules below. If the sum greather than 21, return 0, unless one of the numbers 11. 
+their sum conforming to the rules below. If the sum is greater than 21, return 0, unless one of the numbers is 11. 
 In such a case, the 11 should be converted to a 1 to prevent the sum from exceeding 21. None of the integers 
 received as input should have a value greather than 11, in such a case, return -1
 
