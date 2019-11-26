@@ -30,15 +30,19 @@ ex.
 
 #solved
 def index_cipher(user):
-    word = user[0]
-    indexing = user[1]
     inLst = []
     retStr = ''
-    for i in indexing:
+    for i in user[1]:
         inLst.append(int(i))
     for j in inLst:
-        retStr += word[j]
+        retStr += user[0][j]
     return print(retStr)
+        
+
+index_cipher(["hole","03221"])
+index_cipher(["sopdraw","25006143"])
+index_cipher(["crest","3201243"])
+index_cipher(["mouy satre","3124689464065798"])
         
 
 index_cipher(["hole","03221"])
