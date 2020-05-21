@@ -19,7 +19,6 @@ def simple_blackjack(game):
     for i in game:
         if i > 11:
             score = -1
-            break
         if score > 21:
             for j in game:
                 if j == 11:
@@ -32,3 +31,4 @@ simple_blackjack([10, 11])
 simple_blackjack([10, 5, 11, 11, 4])
 simple_blackjack([10, 5, 4, 11])
 simple_blackjack([10, 5, 4, 11, 5])
+simple_blackjack([12, 5, 4, 11, 5])
