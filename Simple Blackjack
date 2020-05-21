@@ -13,7 +13,7 @@ simple_blackjack([10, 5, 11, 11, 4])
 simple_blackjack([10, 5, 4, 11])
   returns 20
 
-#Solved
+#Solved-ish
 def simple_blackjack(game):
     score = sum(game)
     for i in game:
