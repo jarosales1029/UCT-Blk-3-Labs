@@ -17,18 +17,15 @@ simple_blackjack([10, 5, 4, 11])
 def simple_blackjack(game):
     score = sum(game)
     for i in game:
-        if score > 21:
-            for j in game:
-                if j == 11:
-                    x = j
-                    game.remove(j)
-                    x -= 10
-                    game.append(x)
-                    score = sum(game)
-                    break
         if i > 11:
             score = -1
             break
+        if score > 21:
+            for j in game:
+                if j == 11:
+                    game.remove(j)
+                    game.append(1)
+                    score = sum(game)
     return print(score)
     
 simple_blackjack([10, 11])
