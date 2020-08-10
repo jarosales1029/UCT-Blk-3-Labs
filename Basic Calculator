@@ -10,6 +10,6 @@ example:
 >>>Enter the second number: <input = 10>
 >>> Would you like to add,subtract,multiply,divide,exponent?(A,S,M,D,E) <input = M>
 >>>2 * 10 = 20
->>>Would you like to make anpther calculation?(Y/N)
+>>>Would you like to make another calculation?(Y/N)
 '''
 '''
