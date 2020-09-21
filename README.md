@@ -67,7 +67,7 @@ Python 3 Scripting
 - [ ] Assignment = ex. x=y
 - [ ] Add and assign += ex. x+=y is (x = x + y)
 - [ ] Substract and assign -+ ex. x-=y is (x = x - y)
-- [ ] Multiply and assign *= ex. x*=y is (x = x * y)
+- [ ] Multiply and assign \*= ex. x\*=y is (x = x * y)
 - [ ] Divide and assign is /= ex. x/=y is (x = x/y)
 - [ ] Modulus and assign %= ex. x%=y is (x = x % y)
 - [ ] Exponent and assign **= ex. **=y is (x = x ** y)
